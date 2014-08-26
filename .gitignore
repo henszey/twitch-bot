@@ -19,4 +19,4 @@ build
 *.iml
 
 .springBeans
-application.properties
+/application.properties
