@@ -1,0 +1,1 @@
+git pull;./gradlew assemble; java -jar build/libs/twitch-watcher-1.0.jar
